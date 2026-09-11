@@ -1,5 +1,16 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on<br><br>Building backend-oriented projects that integrate machine learning models into real applications, focusing on clean APIs, data pipelines, and scalable system design. I’m especially interested in how ML models are deployed, served, and maintained in production environments.<br><br>👯 I’m looking to collaborate on<br><br>Backend or AI-related projects involving Python, machine learning, data processing, or API development, where solid engineering practices and real-world problem solving are a priority.<br><br>🤝 I’m looking for help with<br><br>Improving my understanding of machine learning model deployment, backend scalability, and production-ready ML systems (MLOps fundamentals, model serving, and system optimization).<br><br>🌱 I’m currently learning<br><br>Machine Learning fundamentals and applied algorithms<br><br>Backend architecture and system design<br><br>Data handling, model integration, and performance optimization<br><br>Best practices for writing maintainable and efficient backend code<br><br>💬 Ask me about<br><br>Python, backend development, data structures, algorithms, machine learning basics, and how to bridge computer science theory with practical backend systems.<br><br>⚡ Fun fact<br><br>I love bodybuilding
+### Hi, I'm Samuel 👋
+
+LAST semester Systems & Computing Engineering student at Universidad de los Andes (Bogotá). I work where **machine learning meets embedded systems** — I like building things that actually run, not just notebooks.
+
+**What I'm focused on**
+- 🎓 **Thesis (in progress):** Can federated learning run on resource-constrained microcontrollers (ESP32 / STM32)? I measure the real trade-offs — memory, energy, bandwidth, latency — with Flower + TensorFlow Lite Micro. Turns out almost nobody has tested this: ~0 papers combine FL with these chips.
+- 🌱 **Learning:** deeper ML, model deployment / MLOps, IoT, and a bit of quantum computing.
+
+**Stack:** Python · C/C++ · Java · Node.js · SQL · Git · TensorFlow / TF Lite Micro · Flower
+
+Looking for internship / junior roles (Bogotá or remote) in edge AI, ML, or backend — somewhere I can build real systems with people I can learn from.
+
+📫 s.charryt27@gmail.com
 
 
 ## 🌐 Socials:
@@ -12,4 +23,4 @@
 [![](https://visitcount.itsvg.in/api?id=SamuelCharry&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
