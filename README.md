@@ -3,7 +3,7 @@
 LAST semester Systems & Computing Engineering student at Universidad de los Andes (Bogotá). I work where **machine learning meets embedded systems** — I like building things that actually run, not just notebooks.
 
 **What I'm focused on**
-- 🎓 **Thesis (in progress):** Can federated learning run on resource-constrained microcontrollers (ESP32 / STM32)? I measure the real trade-offs — memory, energy, bandwidth, latency — with Flower + TensorFlow Lite Micro. Turns out almost nobody has tested this: ~0 papers combine FL with these chips.
+- 🎓 **Thesis (in progress):** Can federated learning run on resource-constrained microcontrollers (ESP32 / STM32)? I measure the real trade-offs — memory, energy, bandwidth, latency — with Flower + Tensor
 - 🌱 **Learning:** deeper ML, model deployment / MLOps, IoT, and a bit of quantum computing.
 
 **Stack:** Python · C/C++ · Java · Node.js · SQL · Git · TensorFlow / TF Lite Micro · Flower
